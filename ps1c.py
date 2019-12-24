@@ -1,3 +1,7 @@
+# Problem Set 1c
+# Alec Dewulf
+# Time Spent: 3:00
+
 balance = int(input("enter the outstanding balance on your credit card: "))
 interest_rate = float(input("Enter the annual credit card interest rate as a decimal:"))
 
